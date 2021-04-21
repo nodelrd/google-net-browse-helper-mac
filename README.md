@@ -1,4 +1,5 @@
-# V2RayX: A simple GUI for V2Ray on macOS
+# Fork From V2RayX (A simple GUI for V2Ray on macOS)
+# 我们将在次基础上开发google net browse helper For mac
 
 [![Build Status](https://travis-ci.org/Cenmrev/V2RayX.svg?branch=master)](https://travis-ci.org/Cenmrev/V2RayX)
 
